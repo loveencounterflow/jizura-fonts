@@ -8,6 +8,7 @@ Some fonts, especially some needed for displaying CJK characters
 * Adobe Kaiti Std R
 * Apple LiGothic Medium
 * BabelStone Han (http://www.babelstone.co.uk/Fonts/Han.html; version 8.0.0, 2015-06-14)
+    [download](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/BabelStoneHan.ttf)
 * BiauKai
 * CTChaoHeiSF
 * cwTeX Q Fangsong Medium
