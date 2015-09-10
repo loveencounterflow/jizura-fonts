@@ -9,9 +9,12 @@ Some fonts, especially some needed for displaying CJK characters
 * Apple LiGothic Medium
 * BabelStone Han (http://www.babelstone.co.uk/Fonts/Han.html; version 8.0.0, 2015-06-14)
   [➡&nbsp;BabelStoneHan.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/BabelStoneHan.ttf)
+
 * BiauKai
+
 * CTChaoHeiSF
-* cwTeX Q
+
+* cwTeX Q (https://github.com/l10n-tw/cwtex-q-fonts)
   [➡&nbsp;cwTeXQFangsong-Medium.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/cwTeXQFangsong-Medium.ttf)
   [➡&nbsp;cwTeXQFangsongZH-Medium.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/cwTeXQFangsongZH-Medium.ttf)
   [➡&nbsp;cwTeXQHei-Bold.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/cwTeXQHei-Bold.ttf)
@@ -23,12 +26,49 @@ Some fonts, especially some needed for displaying CJK characters
   [➡&nbsp;cwTeXQYuan-Medium.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/cwTeXQYuan-Medium.ttf)
   [➡&nbsp;cwTeXQYuanZH-Medium.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/cwTeXQYuanZH-Medium.ttf)
 
-* DejaVu Sans Mono Bold
-* EB Garamond 12 Regular
-* EB Garamond 12 Regular SmallCaps
+* DejaVu
+  [➡&nbsp;DejaVuSans-Bold.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSans-Bold.ttf)
+  [➡&nbsp;DejaVuSans-BoldOblique.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSans-BoldOblique.ttf)
+  [➡&nbsp;DejaVuSans-Oblique.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSans-Oblique.ttf)
+  [➡&nbsp;DejaVuSans.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSans.ttf)
+  [➡&nbsp;DejaVuSansCondensed-Bold.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansCondensed-Bold.ttf)
+  [➡&nbsp;DejaVuSansCondensed-BoldOblique.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansCondensed-BoldOblique.ttf)
+  [➡&nbsp;DejaVuSansCondensed-Oblique.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansCondensed-Oblique.ttf)
+  [➡&nbsp;DejaVuSansCondensed.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansCondensed.ttf)
+  [➡&nbsp;DejaVuSansMono-Bold.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansMono-Bold.ttf)
+  [➡&nbsp;DejaVuSansMono-BoldOblique.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansMono-BoldOblique.ttf)
+  [➡&nbsp;DejaVuSansMono-Oblique.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansMono-Oblique.ttf)
+  [➡&nbsp;DejaVuSansMono.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSansMono.ttf)
+  [➡&nbsp;DejaVuSerif-Bold.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerif-Bold.ttf)
+  [➡&nbsp;DejaVuSerif-BoldItalic.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerif-BoldItalic.ttf)
+  [➡&nbsp;DejaVuSerif-Italic.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerif-Italic.ttf)
+  [➡&nbsp;DejaVuSerif.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerif.ttf)
+  [➡&nbsp;DejaVuSerifCondensed-Bold.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerifCondensed-Bold.ttf)
+  [➡&nbsp;DejaVuSerifCondensed-BoldItalic.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerifCondensed-BoldItalic.ttf)
+  [➡&nbsp;DejaVuSerifCondensed-Italic.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerifCondensed-Italic.ttf)
+  [➡&nbsp;DejaVuSerifCondensed.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/DejaVuSerifCondensed.ttf)
+
+* EB Garamond 12
+  [➡&nbsp;EBGaramond-Initials.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond-Initials.otf)
+  [➡&nbsp;EBGaramond-InitialsF1.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond-InitialsF1.otf)
+  [➡&nbsp;EBGaramond-InitialsF2.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond-InitialsF2.otf)
+  [➡&nbsp;EBGaramond08-Italic.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond08-Italic.otf)
+  [➡&nbsp;EBGaramond08-Regular.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond08-Regular.otf)
+  [➡&nbsp;EBGaramond08-SC.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond08-SC.otf)
+  [➡&nbsp;EBGaramond12-AllSC.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond12-AllSC.otf)
+  [➡&nbsp;EBGaramond12-Italic.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond12-Italic.otf)
+  [➡&nbsp;EBGaramond12-Regular.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond12-Regular.otf)
+  [➡&nbsp;EBGaramond12-SC.otf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/EBGaramond12-SC.otf)
+
 * Flow DejaVu Sans Mono
+  [➡&nbsp;FlowDejaVuSansMono.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/FlowDejaVuSansMono.ttf)
+
 * HanaMinA
+  [➡&nbsp;HanaMinA.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/HanaMinA.ttf)
+
 * HanaMinB
+  [➡&nbsp;HanaMinB.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/HanaMinB.ttf)
+
 * InputMonoCompressed Light
 * InputMonoCompressed Medium
 * jizura3b
