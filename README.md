@@ -83,13 +83,17 @@ Some fonts, especially some needed for displaying CJK characters
 * Songti SC Black
 * Source Code Pro
 * STKaiti
+
 * Sun-ExtA
   [➡&nbsp;sun-exta.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/sun-exta.ttf)
+
 * sunflower-u-cjk-xa-centered
   [➡&nbsp;sunflower-u-cjk-xa-centered.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/sunflower-u-cjk-xa-centered.ttf)
+
 * sunflower-u-cjk-xb
   [➡&nbsp;Sun-ExtB.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/Sun-ExtB.ttf)
   [➡&nbsp;sunflower-u-cjk-xb.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/sunflower-u-cjk-xb.ttf)
+
 * Ubuntu
   [➡&nbsp;Ubuntu-B.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/Ubuntu-B.ttf)
   [➡&nbsp;Ubuntu-BI.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/Ubuntu-BI.ttf)
@@ -102,3 +106,6 @@ Some fonts, especially some needed for displaying CJK characters
   [➡&nbsp;UbuntuMono-BI.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/UbuntuMono-BI.ttf)
   [➡&nbsp;UbuntuMono-R.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/UbuntuMono-R.ttf)
   [➡&nbsp;UbuntuMono-RI.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/UbuntuMono-RI.ttf)
+
+
+
