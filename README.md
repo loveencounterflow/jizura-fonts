@@ -107,5 +107,8 @@ Some fonts, especially some needed for displaying CJK characters
   [➡&nbsp;UbuntuMono-R.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/UbuntuMono-R.ttf)<br>
   [➡&nbsp;UbuntuMono-RI.ttf](https://github.com/loveencounterflow/jizura-fonts/raw/master/fonts/UbuntuMono-RI.ttf)
 
+* FiraMono<br>
+  see [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
-
+* Monoid<br>
+  see [http://larsenwork.com/monoid](http://larsenwork.com/monoid)
