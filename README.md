@@ -112,3 +112,14 @@ Some fonts, especially some needed for displaying CJK characters
 
 * Monoid<br>
   see [http://larsenwork.com/monoid](http://larsenwork.com/monoid)
+
+* Epson<br>
+  http://www.epson.jp/dl_soft/readme/11550.htm<br>
+  EPGYOBLD.TTF<br>
+  EPGYOSHO.TTF<br>
+  EPKAISHO.TTF<br>
+  EPKGOBLD.TTF<br>
+  EPKYOUKA.TTF<br>
+  EPMARUGO.TTF<br>
+  EPMGOBLD.TTF<br>
+  EPMINBLD.TTF
