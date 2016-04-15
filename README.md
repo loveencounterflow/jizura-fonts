@@ -123,3 +123,7 @@ Some fonts, especially some needed for displaying CJK characters
   EPMARUGO.TTF<br>
   EPMGOBLD.TTF<br>
   EPMINBLD.TTF
+
+
+simfang.ttf
+
