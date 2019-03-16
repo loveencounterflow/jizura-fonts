@@ -1,0 +1,7 @@
+
+`sunflower-exta-201903.ttf` is a copy of `sun-exta.ttf`, newly generated with a different name by
+[FontForge](https://fontforge.github.io/). The rewritten font is be loaded by Chrome/Chromium/Electron
+whereas the original one causes an error for unknown reasons.
+
+
+
